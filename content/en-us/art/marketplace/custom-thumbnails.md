@@ -3,7 +3,7 @@ title: Custom Thumbnails
 description: Explains how to create your own custom thumbnail for marketplace items.
 ---
 
-Thumbnail images provide a preview of the 3D asset in the [Marketplace](https://www.roblox.com/catalog), user inventories, and avatar editors. Before [uploading an asset to the Marketplace](../../art/marketplace/publishing-to-marketplace.md), you can create your own thumbnails to customize the exact look and feel of your item preview thumbnails. This step is optional, but can help ensure that the thumbnail accurately portrays your item.
+Thumbnail images provide a preview of the 3D asset in the [Marketplace](https://www.roblox.com/catalog), user inventories, and avatar editors. Before [uploading an asset to the Marketplace](../../art/marketplace/publishing-to-marketplace.md), you can create your own thumbnails to customize the exact look and feel of your item preview thumbnails. This step is optional but can help ensure that the thumbnail accurately portrays your item.
 
 <GridContainer numColumns="3">
   <figure>
